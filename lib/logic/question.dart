@@ -50,3 +50,5 @@ class QuestionSet {
   }
 
 }
+
+QuestionSet request = QuestionSet();
